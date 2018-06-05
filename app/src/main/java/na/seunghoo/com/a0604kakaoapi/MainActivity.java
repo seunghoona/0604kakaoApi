@@ -21,7 +21,7 @@ import java.security.MessageDigest;
 public class MainActivity extends AppCompatActivity {
 
     SessionCallback sessionCallback;
-
+////asd
     //안드로이드 키 해시를 로그로 출력하는 메소드
     //키해시: 안드로이드 앱 마다 별도로 생성되는 ID 같은 개념입니다.
     //한 번만 호출하면 됩니다.
